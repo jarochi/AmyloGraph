@@ -1,0 +1,10 @@
+url: https://github.com/KotulskaLab/AmyloGraph
+template:
+  bootstrap: 5
+  bootswatch: minty
+home:
+  links:
+  - text: AmyloGraph database
+    href: https://amylograph.com/
+  - text: AmyloGraph online manual
+    href: https://kotulskalab.github.io/AmyloGraph/

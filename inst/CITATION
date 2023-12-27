@@ -1,0 +1,29 @@
+citHeader("To cite AmyloGraph in publications, please use:")
+
+bibentry(
+bibtype = "Article",
+  title = "AmyloGraph: A Comprehensive Database of Amyloid-Amyloid Interactions",
+  author = c(
+person(given = "Michał", family = "Burdukiewicz", role = NULL, email = NULL, comment = NULL), 
+person(given = "Dominik", family = "Rafacz", role = NULL, email = NULL, comment = NULL), 
+person(given = "Agnieszka", family = "Barbach", role = NULL, email = NULL, comment = NULL), 
+person(given = "Katarzyna", family = "Hubicka", role = NULL, email = NULL, comment = NULL), 
+person(given = "Laura", family = "Bąkała", role = NULL, email = NULL, comment = NULL), 
+person(given = "Anna", family = "Lassota", role = NULL, email = NULL, comment = NULL), 
+person(given = "Jakub", family = "Stecko", role = NULL, email = NULL, comment = NULL), 
+person(given = "Natalia", family = "Szymańska", role = NULL, email = NULL, comment = NULL), 
+person(given = "Jakub W.", family = "Wojciechowski", role = NULL, email = NULL, comment = NULL), 
+person(given = "Dominika", family = "Kozakiewicz", role = NULL, email = NULL, comment = NULL), 
+person(given = "Natalia", family = "Szulc", role = NULL, email = NULL, comment = NULL), 
+person(given = "Jarosław", family = "Chilimoniuk", role = NULL, email = NULL, comment = NULL), 
+person(given = "Izabela", family = "Jęśkowiak", role = NULL, email = NULL, comment = NULL), 
+person(given = "Marlena", family = "Gąsior-Głogowska", role = NULL, email = NULL, comment = NULL), 
+person(given = "Małgorzata", family = "Kotulska", role = NULL, email = NULL, comment = NULL)),
+  year = "2023",
+  journal = "Nucleic Acids Research",
+  volume = "51",
+  number = "D1",
+  pages = "D352-D357",
+  issn = "0305-1048",
+  doi = "10.1093/nar/gkac882",
+)
